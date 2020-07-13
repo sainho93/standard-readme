@@ -120,6 +120,7 @@ progressively greater amount of knowledge."
 **Suggestions:**
 - May capture third and fourth depth headings. If it is a long ToC, these are optional.
 
+
 ### Security
 **Status**: Optional.
 
@@ -131,14 +132,16 @@ progressively greater amount of knowledge."
 
 **Requirements:**
 - Cover motivation.
+- Cover objective.
 - Cover abstract dependencies.
 - Cover intellectual provenance: A `See Also` section is also fitting.
 
-### Install
+### Installation
 **Status:** Required by default, optional for [documentation repositories](#definitions).
 
 **Requirements:**
-- Code block illustrating how to install.
+- List all downloading choices for different platforms
+- Code block illustrating set-up steps.
 
 **Subsections:**
 - `Dependencies`. Required if there are unusual dependencies or dependencies that must be manually installed.
@@ -207,6 +210,7 @@ progressively greater amount of knowledge."
 - State anyone or anything that significantly helped with the development of your project.
 - State public contact hyper-links if applicable.
 
+
 ### Contributing
 **Status**: Required.
 
@@ -221,6 +225,7 @@ progressively greater amount of knowledge."
 - Link to the GitHub issues.
 - Link to a Code of Conduct. A CoC is often in the Contributing section or document, or set elsewhere for an entire organization, so it may not be necessary to include the entire file in each repository. However, it is highly recommended to always link to the code, wherever it lives.
 - A subsection for listing contributors is also welcome here.
+
 
 ### License
 **Status:** Required.

@@ -18,6 +18,7 @@ This is a long description.
 - [Install](#install)
 - [Usage](#usage)
 - [API](#api)
+- [Acknowledgements](#acknowledgements)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -29,37 +30,34 @@ This is a long description.
 
 ### Any optional sections
 
-## Install
+## Installation
 
-This module depends upon a knowledge of [Markdown]().
+### Download
 
-```
-```
+This project is hosted on [Github](https://github.com/XXX).
+  
+As the program is still under development and is extended continuously, we advice you to use the latest sources from our GitHub repository. Using a command line client the following command should work:
+    
+    git clone --recursive https://github.com/XXX
 
 ### Any optional sections
 
 ## Usage
 
-```
-```
-
-Note: The `license` badge image link at the top of this file should be updated with the correct `:user` and `:repo`.
-
-### Any optional sections
 
 ## API
 
-### Any optional sections
 
-## More optional sections
+## Acknowledgements
+XXX is inspired by [XXX](https://github.com/XXX).
 
 ## Contributing
 
 See [the contributing file](CONTRIBUTING.md)!
 
-PRs accepted.
+Feel free to dive in! [Open an issue](https://github.com/XXX/issues/new) or submit PRs.
 
-Small note: If editing the Readme, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
+JPSvis Online follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
 
 ### Any optional sections
 
